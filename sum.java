@@ -4,7 +4,6 @@ public class sum{
         int a, b;
         Scanner sc = new Scanner(System.in);
         a = sc.nextInt(); b = sc.nextInt();
-
         System.out.println(a+b);
     }
 }
